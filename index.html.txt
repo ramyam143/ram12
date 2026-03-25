@@ -45,7 +45,7 @@ Can see new website link
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BCA Student Portal - Rajesh</title>
+  <title>BCA Student Portal - Ramya</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -97,7 +97,7 @@ Can see new website link
 
 <header>
   <h1>BCA Student Portal</h1>
-  <p>Welcome to Rajesh's Learning Hub</p>
+  <p>Welcome to Ramya's Learning Hub</p>
 </header>
 
 <nav>
@@ -115,8 +115,8 @@ Can see new website link
   </div>
 
   <div id="about" class="card">
-    <h2>About Rajesh</h2>
-    <p>Name: Rajesh</p>
+    <h2>About Ramya</h2>
+    <p>Name: Ramya</p>
     <p>Course: Bachelor of Computer Applications (BCA)</p>
     <p>This portal helps students learn programming, networking, and data analysis.</p>
   </div>
@@ -134,14 +134,14 @@ Can see new website link
 
   <div id="contact" class="card">
     <h2>Contact</h2>
-    <p>Phone: 9999999999</p>
-    <p>Email: abcd@gmail.com</p>
+    <p>Phone: 9025457404</p>
+    <p>Email: ramyam200713@gmail.com</p>
   </div>
 
 </div>
 
 <footer>
-  <p>&copy; 2026 Rajesh | BCA Student Portal</p>
+  <p>&copy; 2026 Ramya | BCA Student Portal</p>
 </footer>
 
 </body>
